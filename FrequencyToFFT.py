@@ -64,3 +64,4 @@ plt.xlim(0, max(left_freq,right_freq,f_stop,f_start)+1000)  # show up to 30 kHz
 plt.grid(True)
 plt.tight_layout()
 plt.show()
+
